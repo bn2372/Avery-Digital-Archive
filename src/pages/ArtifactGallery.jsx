@@ -29,7 +29,6 @@ export default function ArtifactGallery() {
     { type: "image", src: "/artifacts/image14.jpg" },
     { type: "video", src: "/artifacts/video1.mp4" },
     { type: "video", src: "/artifacts/video2.mp4" },
-    { type: "video", src: "/artifacts/video3.mp4" },
     { type: "3d", src: "/artifacts/model1.glb" },
   ];
 
